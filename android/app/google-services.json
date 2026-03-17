@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561596945978",
+    "project_id": "blocloginfb",
+    "storage_bucket": "blocloginfb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561596945978:android:a358873b5290688f774703",
+        "android_client_info": {
+          "package_name": "com.example.bloclogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKLUVF537bvEuzy1nYirs1SHPB9r4GlnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
